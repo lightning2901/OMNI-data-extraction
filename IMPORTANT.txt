@@ -1,0 +1,1 @@
+To execute both install_libraries and omni_data_downloader.py grant execution permissions to the files and if doesn't work you may want to try sudo because first in install libraries creates a virtual enviroment and installs ONLY python libraries with pip, you can see this in requirements.txt
